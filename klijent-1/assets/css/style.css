@@ -1,0 +1,57 @@
+
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color:yellowgreen !important;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+
+h5.card-title {
+color: yellowgreen !important;
+font-size: 25px;
+font-family: 'Lucida Sans';
+background-color: #e9ecef;
+}
+
+.moja {
+  background-color: #e9ecef !important;
+} 
+
+.pisana-slova {
+  font-size: 35px;
+  font-family: Brush Script MT
+}
+.donji {
+background-color: #e9ecef;
+}
+div.donji {
+  margin-top: 15px;
+}
+
+
+.fotka {
+background-color: #e9ecef;
+}
+div.fotka {
+  margin-top: 25px;
+}
+
+.fotkadrga {
+  background-color: #e9ecef;
+  }
+  div.fotkadruga {
+    margin-top: 25px;
+  }
