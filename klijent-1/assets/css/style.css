@@ -1,5 +1,12 @@
-.carousel-inner {
 
+
+.bg-menu {
+  background-color: blue;
+  font-weight: 900;
+}
+
+a.nav-link {
+  color: whitesmoke;
 }
 
 .selector-for-some-widget {
