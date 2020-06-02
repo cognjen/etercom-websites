@@ -50,3 +50,57 @@ div.donji {
   margin-top: 15px;
 }
 
+
+.line-separator {
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: #f1cd8f;
+  margin: 20px auto;
+}
+
+
+ul { list-style:none;  list-style-position: outside; margin: 0px; padding: 0px; }
+li { margin-bottom:10px;  }
+li.text-left:before {    
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f975";
+}
+
+li.text-right:after {    
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f975";
+}
+
+ul.right p {
+    padding-left: 20px; 
+}
+
+ul.left p {
+    padding-right: 20px; 
+}
+
+
+.dark {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.grey{
+    background-color: gray;
+    margin: 10px;
+}
+
+.orange {
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+
+.promo-text {
+    padding: 10px;
+}
+
