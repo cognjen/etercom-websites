@@ -1,4 +1,11 @@
-
+.body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #888;
+  line-height: 30px;
+  text-align: center;
+}
 
 .bg-menu {
   background-color: blue;
@@ -22,7 +29,7 @@ h1 {
   text-align: center;
 }
 
-p {
+p.card-text {
   font-family: verdana;
   font-size: 20px;
 }
@@ -59,6 +66,10 @@ div.donji {
   margin: 20px auto;
 }
 
+.space-separator {
+height: 60px;
+}
+
 
 ul { list-style:none;  list-style-position: outside; margin: 0px; padding: 0px; }
 li { margin-bottom:10px;  }
@@ -81,7 +92,6 @@ ul.right p {
 ul.left p {
     padding-right: 20px; 
 }
-
 
 .dark {
     background-color: black;
