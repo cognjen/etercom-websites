@@ -27,6 +27,11 @@ font-size: 1.5rem;
 
 }
 
+h5.card-title {
+  background-color: #294F6D !important;
+  font-weight: 900;
+  padding-left: 50px;
+}
 
 .selector-for-some-widget {
   box-sizing: content-box;
@@ -63,7 +68,9 @@ background-color: #e9ecef;
   font-family: Brush Script MT
 }
 .donji {
-background-color: #e9ecef;
+  background-color: #294F6D;
+  font-weight: 900;
+  color: white;
 }
 div.donji {
   margin-top: 15px;
