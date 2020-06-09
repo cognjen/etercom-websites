@@ -126,6 +126,9 @@ ul.left p {
     margin: 10px;
 }
 
+.progres-bar h4{
+  margin-left: 10px;
+}
 .orange {
     background-color: orange;
     color: black;
