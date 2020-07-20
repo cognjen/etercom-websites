@@ -20,18 +20,26 @@
   margin-top: 15px;
 }
 
+a:hover {
+  color: orange !important;
+}
+
 .navbar-text {
-  color: black;
+  color: orange;
 font-weight: 400;
 font-size: 1.5rem;
 
 }
 
+
+
 h5.card-title {
   background-color: #294F6D !important;
-  font-weight: 900;
-  padding-left: 50px;
-}
+  color: orange !important;
+  font-size: 25px;
+  font-family: 'Lucida Sans';
+  text-align: center
+  }
 
 .selector-for-some-widget {
   box-sizing: content-box;
@@ -52,12 +60,7 @@ p.card-text {
 }
 
 
-h5.card-title {
-color: yellowgreen !important;
-font-size: 25px;
-font-family: 'Lucida Sans';
-background-color: #e9ecef;
-}
+
 
 .moja {
   background-color: #e9ecef !important;
@@ -113,7 +116,7 @@ ul.left p {
 }
 
 .dark {
-    background-color: black;
+    background-color: #333377;
     color: white;
     padding: 10px;
 }
@@ -123,6 +126,9 @@ ul.left p {
     margin: 10px;
 }
 
+.progres-bar h4{
+  margin-left: 10px;
+}
 .orange {
     background-color: orange;
     color: black;
