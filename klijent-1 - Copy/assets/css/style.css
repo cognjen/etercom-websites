@@ -1,0 +1,159 @@
+.body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #888;
+  line-height: 30px;
+  text-align: center;
+}
+
+.bg-menu {
+  background-color: #294F6D;
+  font-weight: 900;
+}
+
+.nav-link {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-weight: 400;
+  font-size: 1.1rem;
+  margin-top: 15px;
+}
+
+a:hover {
+  color: orange !important;
+}
+
+.navbar-text {
+  color: orange;
+font-weight: 400;
+font-size: 1.5rem;
+
+}
+
+
+
+h5.card-title {
+  background-color: #294F6D !important;
+  color: orange !important;
+  font-size: 25px;
+  font-family: 'Lucida Sans';
+  text-align: center
+  }
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color:yellowgreen !important;
+  text-align: center;
+}
+
+p.card-text {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+
+
+
+.moja {
+  background-color: #e9ecef !important;
+} 
+
+.pisana-slova {
+  font-size: 35px;
+  font-family: Brush Script MT
+}
+.donji {
+  background-color: #294F6D;
+  font-weight: 900;
+  color: white;
+}
+div.donji {
+  margin-top: 15px;
+}
+
+
+.line-separator {
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: #f1cd8f;
+  margin: 20px auto;
+}
+
+.space-separator {
+height: 60px;
+}
+
+
+ul { list-style:none;  list-style-position: outside; margin: 0px; padding: 0px; }
+li { margin-bottom:10px;  }
+li.text-left:before {    
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f975";
+}
+
+li.text-right:after {    
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f975";
+}
+
+ul.right p {
+    padding-left: 20px; 
+}
+
+ul.left p {
+    padding-right: 20px; 
+}
+
+.dark {
+    background-color: #333377;
+    color: white;
+    padding: 10px;
+}
+
+.grey{
+    background-color: gray;
+    margin: 10px;
+}
+
+.progres-bar h4{
+  margin-left: 10px;
+}
+.orange {
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+
+.promo-text {
+    padding: 10px;
+}
+
+@media screen and (min-width: 990px) {
+  .siroki {
+    
+  }
+  .uski {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .siroki {
+    display: none;
+  }
+  .uski {
+    
+  }
+
+}
