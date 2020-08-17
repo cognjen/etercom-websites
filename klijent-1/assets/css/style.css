@@ -59,8 +59,10 @@ p.card-text {
   font-size: 15px; 
 }
 
-
-
+p.lead {
+  font-family: verdana;
+   font-size: 15px;
+  }
 
 .moja {
   background-color: #e9ecef !important;
